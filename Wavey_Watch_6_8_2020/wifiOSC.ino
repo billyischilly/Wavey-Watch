@@ -1,5 +1,5 @@
-const char* ssid = "Like A Virgin (Smart Hub)";
-const char* password = "wbh8hzspYqnh";
+const char* ssid = "SSID";
+const char* password = "blahblahblah";
 
 WiFiUDP Udp;
 const IPAddress outIp(192, 168, 0, 13);
