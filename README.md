@@ -25,5 +25,15 @@ Sends all sensors on the watch as Unassigned MIDI CC messages so that you can de
 Read more about the TTGO T Watch 2020 here...
 http://www.lilygo.cn/prod_view.aspx?TypeId=50036&Id=1290&FId=t3:50036:3
 
-...and the repository for the TTGO Watch Library is here...
-https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library
+...currently only works with my fork of the TTGO T Watch library which is here...
+https://github.com/billyischilly/TTGO_TWatch_Library
+
+...and here are the rest of the dependencies
+
+https://github.com/nkolban/ESP32_BLE_Arduino
+
+https://github.com/ChrisBall/ScaleManager
+
+https://github.com/CNMAT/OSC
+
+https://github.com/dxinteractive/ArduinoTapTempo (not actually put to much use in current version of the sketch but will be going forward)
